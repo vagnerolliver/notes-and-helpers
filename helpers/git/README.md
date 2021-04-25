@@ -31,3 +31,9 @@
 ```
 
 
+### Commands
+
+// add annotated tag
+```
+ git tag -a "1.0.1" -m "1.0.1"
+```
