@@ -1,4 +1,4 @@
-#Git Commands..
+#Git Commands...
 
 ### Editar configurações global
 
